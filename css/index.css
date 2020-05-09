@@ -186,6 +186,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  z-index: 100;
 }
 @media (max-width: 500px) {
   .main-navigation .nav-container {
